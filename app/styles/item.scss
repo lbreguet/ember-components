@@ -1,0 +1,10 @@
+$red: #f00;
+
+.list-item-completed {
+  color: $red;
+  text-decoration: line-through;
+}
+
+.list-item:hover {
+  cursor: pointer;
+}

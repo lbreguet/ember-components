@@ -1,0 +1,9 @@
+@import 'item';
+
+.list-detail-hidden :not(:first-child) {
+  display: none;
+}
+
+.list-header:hover {
+  cursor: pointer;
+}
